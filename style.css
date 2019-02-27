@@ -1,0 +1,41 @@
+body{
+    background: slategrey;
+    font: 20px Castellar;
+
+}
+
+h1{ font: 30px "Times New Roman";
+}
+
+pre{
+
+    font: 20px "GOST type A";
+}
+
+img{
+    margin: revert;
+    width: 20px;
+}
+
+table{
+
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+
+}
+
+th{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+}
+
+div{
+    background: slategrey;
+    font: 20px Castellar;
+}
